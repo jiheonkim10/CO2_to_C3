@@ -1,4 +1,4 @@
-# Accelerated discovery of multi-element CO<sub>2</sub> electrocatalysts with human-in-the-loop
+# Accelerated discovery of CO<sub>2</sub>-to-C<sub>3</sub> hydrocarbon electrocatalysts with human-in-the-loop
 
 J. Kim, _et al._
 
