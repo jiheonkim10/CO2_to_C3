@@ -1,4 +1,4 @@
-# Accelerated discovery of CO₂-to-C₃ hydrocarbon electrocatalysts with human-in-the-loop Bayesian optimization
+# Accelerated discovery of CO₂-to-C₃ hydrocarbon electrocatalysts with human-in-the-loop
 
 ## Overview
 ![Discovery workflow](figures/workflow.png)
